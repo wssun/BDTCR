@@ -1,9 +1,12 @@
 # BDTCR: Test Case Recommendation based on Balanced Distance of Test Targets
 
 ## Requirements
-JDK 1.8
-JavaParser==3.15.7
-MySQL==8.0.19
+JDK==1.8;
+
+JavaParser==3.15.7;
+
+MySQL==8.0.19;
+
 More requirements are list in the pom.xml file.
 
 
